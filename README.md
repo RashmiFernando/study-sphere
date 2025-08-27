@@ -140,11 +140,12 @@ npm start
 
 ## 📄 Research Paper
 
-See the `/docs` folder or [repository wiki](https://github.com/RashmiFernando/study-sphere/wiki) for published papers and detailed technical documentation.
+See the [repository wiki](https://github.com/RashmiFernando/study-sphere/wiki) for published papers and detailed technical documentation.
 
 ## 👤 Contributors
 
 - [Rashmi Fernando](https://github.com/RashmiFernando)
 - [Janith Waduge](https://github.com/JanithWaduge)
 - [Mayashi Hansika](https://github.com/DMDMHansika)
+
 
